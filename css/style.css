@@ -112,7 +112,7 @@ body {
 .header_item-img {
 	position: relative;
 	aspect-ratio: 642 / 600;
-	flex: 1 1 642px;
+	flex: 0 1 642px;
 }
 .header_item-img > img {
 	position: absolute;
